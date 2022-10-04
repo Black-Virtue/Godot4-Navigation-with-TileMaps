@@ -1,0 +1,11 @@
+0b7126e0c6e86d3ec295a72f5aa6e0bd
+::res://::1664869164
+Big_Tiles.tscn::PackedScene::8556556322832516794::1664833158::0::1::::<><>::res://TileMapNav.gd<>uid://b30wc45n3loar<>uid://ft4ngdxru14c
+Gobot.svg::CompressedTexture2D::391951724471352468::1663589550::1664370422::1::::<><>::
+Small_Tiles.tscn::PackedScene::2626063724991222394::1664833158::0::1::::<><>::uid://d1b64qayhx0iv<>res://TileMapNav.gd<>uid://ft4ngdxru14c
+TileMapHelper.gd::GDScript::-1::1664835099::0::1::::TileMapHelper<>Node2D<>::
+TileMapNav(V1).gd::GDScript::-1::1664816317::0::1::::<>Node2D<>::
+TileMapNav(V2).gd::GDScript::-1::1664816317::0::1::::<>Node2D<>::
+TileMapNav.gd::GDScript::-1::1664832824::0::1::::<>Node2D<>::
+Tiles Big.png::CompressedTexture2D::4404658664987987329::1664377596::1664377602::1::::<><>::
+Tiles Small.png::CompressedTexture2D::8988171219695547313::1664378727::1664378729::1::::<><>::
